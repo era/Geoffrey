@@ -7,12 +7,6 @@ app.get('/:pg', function(req, res){
 	res.render(req.params.pg);
 });
 
-app.get('/',function(req,res){
-	res.render('index.html');
-});
-
-
-
 Geofrey.serves = function(views_folder) {
 	app.set('views', views_folder);
 	return this;
