@@ -25,4 +25,4 @@ Geoffrey.on = function(port) {
 
 Geoffrey.container = app;
 
-module.exports = Geofrey;
+module.exports = Geoffrey;
