@@ -1,6 +1,6 @@
 var express = require('express'),
 	app = express(),
-	Geofrey = {};
+	Geoffrey = {};
 
 app.engine('html', require('ejs').renderFile);
 app.get('/:pg', function(req, res){
