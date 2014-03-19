@@ -6,7 +6,7 @@ Geoffrey is a simple express app to serve static pages, just put your html pages
 
 To run, just type on command line:
 		
-		npm install Geofrey
+		npm install geofrey
 
 
 In your code:
