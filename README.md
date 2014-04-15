@@ -6,13 +6,13 @@ Geoffrey is a simple express app to serve static pages, just put your html pages
 
 To run, just type on command line:
 		
-		npm install geofrey
+		npm install geoffrey
 
 
 In your code:
 
-		Geofrey = require('geofrey');
-		Geofrey.serves('html_folder') // html folder
+		Geoffrey = require('geoffrey');
+		Geoffrey.serves('html_folder') // html folder
 			.with('public_folder') //public folder with assets
 			.on(1337) //port number that we should listen
 
