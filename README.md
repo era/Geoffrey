@@ -14,6 +14,7 @@ In your code:
 		Geoffrey = require('geoffrey');
 		Geoffrey.serves('html_folder') // html folder
 			.with('public_folder') //public folder with assets
+			.index_as('index.html')
 			.on(1337) //port number that we should listen
 
 		

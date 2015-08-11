@@ -16,6 +16,12 @@ Geoffrey.with = function(public_folder) {
 	app.use(express.static( public_folder));
 	return this;
 }
+Geoffrey.index_as = function(filename) {
+	app.get('/', function(req, res){
+		res.render(filename);
+	});
+	return this;
+}
 
 Geoffrey.on = function(port) {
 	app.listen(port);
