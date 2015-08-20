@@ -26,3 +26,6 @@ FAQ
 	* Because of Geoffrey the English butler on the NBC sitcom The Fresh Prince of Bel-Air. 	
 * Can I deploy this on heroku to serve static pages?
 	* Yes you can :)
+
+If you like, why not pay me a coffee? :)
+<a href='http://ko-fi.com?i=18652RF02P1Z4' target='_blank'><img style='border:0px' src='https://az743702.vo.msecnd.net/cdn/btn3.png' border='0' alt='Buy Me A Coffee at Ko-Fi.com' /></a> 
