@@ -1,29 +1,30 @@
 {
   "name": "geoffrey",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A simple way to serve static pages with node.js.",
   "keywords": "static, static pages, static html, Geoffrey",
   "homepage": "https://github.com/era/Geoffrey",
-  "license" : "GPL-3.0",
+  "license": "GPL-3.0",
   "author": {
     "name": "Elias Granja Jr.",
     "email": "node@eliasgranja.com",
     "url": "http://www.eliasgranja.com"
   },
-  "contributors": [ 
+  "contributors": [
     {
       "name": "Ryan Whitehurst",
       "url": "https://github.com/ghyspran"
-    } 
+    }
   ],
-  "repository" : { 
-    "type" : "git",
-    "url" : "https://github.com/era/Geoffrey.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/era/Geoffrey.git"
   },
   "main": "./geoffrey.js",
   "dependencies": {
+    "ejs": "~0.8.5",
     "express": "~3.4.8",
-    "ejs": "~0.8.5"
+    "hbs": "^3.1.0"
   },
   "engines": {
     "node": "0.10.x"

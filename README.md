@@ -11,11 +11,12 @@ To run, just type on command line:
 
 In your code:
 
-		Geoffrey = require('geoffrey');
-		Geoffrey.serves('html_folder') // html folder
-			.with('public_folder') //public folder with assets
-			.index_as('index.html')
-			.on(1337) //port number that we should listen
+		Geoffrey = require('./geoffrey');
+   		Geoffrey.serves('html_folder') // html folder
+        .with('public_folder') //public folder with assets
+        .render_with('html') //or hbs for example, if you want another template engine you should install as your dependency and replace here.
+        .index_as('index.hbs')
+        .on(1337)
 
 		
 		
