@@ -1,6 +1,7 @@
 Geoffrey
 ========
 
+[![Code Climate](https://codeclimate.com/github/era/Geoffrey/badges/gpa.svg)](https://codeclimate.com/github/era/Geoffrey)
 
 Geoffrey is a simple express app to serve static pages, just put your html pages on views folder and everything else on public and you are ready to go.
 
@@ -21,15 +22,26 @@ In your code:
 		
 		
 FAQ
-=====
+------
 
 * Hey, thanks for the script, but why Geoffrey?
 	* Because of Geoffrey the English butler on the NBC sitcom The Fresh Prince of Bel-Air. 	
 * Can I deploy this on heroku to serve static pages?
 	* Yes you can :)
 
+Contributing
+------------
+
+  1. Fork it
+  2. Create your feature branch (`git checkout -b my-new-feature`)
+  3. Commit your changes (`git commit -am 'Add some feature'`)
+  4. Push to the branch (`git push origin my-new-feature`)
+  5. Create new Pull Request
+
+
 License
-=====
+---------
+
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
