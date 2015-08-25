@@ -22,8 +22,8 @@
   },
   "main": "./geoffrey.js",
   "dependencies": {
-    "ejs": "~0.8.5",
-    "express": "~3.4.8",
+    "ejs": "~2.3.3",
+    "express": "~4.13.3",
     "hbs": "^3.1.0"
   },
   "engines": {
