@@ -23,7 +23,7 @@ Command line example
 ----
      geoffrey --folder html_folder/ -r html
 
-You also can see the command list with: ```geoffrey --help```
+You also can see the args list with: ```geoffrey --help```
 		
 FAQ
 ------
