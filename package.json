@@ -1,8 +1,8 @@
 {
   "name": "geoffrey",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple way to serve static pages with node.js.",
-  "keywords": "static, static pages, static html, Geoffrey",
+  "keywords": "static, static pages, static html, Geoffrey, Command Line, cli static server",
   "homepage": "https://github.com/era/Geoffrey",
   "license": "GPL-3.0",
   "author": {
@@ -21,7 +21,11 @@
     "url": "https://github.com/era/Geoffrey.git"
   },
   "main": "./geoffrey.js",
+  "bin": {
+    "geoffrey": "cli.js"
+  },
   "dependencies": {
+    "commander": "^2.8.1",
     "ejs": "~2.3.3",
     "express": "~4.13.3",
     "hbs": "^3.1.0"
