@@ -1,6 +1,6 @@
 {
   "name": "geoffrey",
-  "version": "1.1.1.2",
+  "version": "1.1.2",
   "description": "A simple way to serve static pages with node.js.",
   "keywords": "static, static pages, static html, Geoffrey, Command Line, cli static server",
   "homepage": "https://github.com/era/Geoffrey",
