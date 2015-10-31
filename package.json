@@ -1,10 +1,10 @@
 {
   "name": "geoffrey",
-  "version": "1.1.1",
+  "version": "1.1.1.2",
   "description": "A simple way to serve static pages with node.js.",
   "keywords": "static, static pages, static html, Geoffrey, Command Line, cli static server",
   "homepage": "https://github.com/era/Geoffrey",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "author": {
     "name": "Elias Granja Jr.",
     "email": "node@eliasgranja.com",
