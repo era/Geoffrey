@@ -18,4 +18,4 @@ geoffrey.serves(program.folder || './html')
 if(program.render) geoffrey.render_with(program.render);
 if(program.assets) geoffrey.with(program.assets);
 
-geoffrey.on(program.port || 8080) //run
+geoffrey.on(program.port || 8080); //run
