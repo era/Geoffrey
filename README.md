@@ -32,6 +32,8 @@ FAQ
 	* Because of Geoffrey the English butler on the NBC sitcom The Fresh Prince of Bel-Air. 	
 * Can I deploy this on heroku to serve static pages?
 	* Yes you can :)
+	
+![](geoffrey.jpeg)
 
 Contributing
 ------------
