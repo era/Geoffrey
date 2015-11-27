@@ -1,6 +1,6 @@
 {
   "name": "geoffrey",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "A simple way to serve static pages with node.js.",
   "keywords": "static, static pages, static html, Geoffrey, Command Line, cli static server",
   "homepage": "https://github.com/era/Geoffrey",
@@ -29,8 +29,5 @@
     "ejs": "~2.3.3",
     "express": "~4.13.3",
     "hbs": "^3.1.0"
-  },
-  "engines": {
-    "node": "0.10.x"
   }
 }
